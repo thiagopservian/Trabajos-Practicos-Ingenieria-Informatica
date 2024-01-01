@@ -1,0 +1,17 @@
+Este fue mi primer trabajo de programacion,
+orientado al uso de structs y logica para
+desarrollar un videojuego. 
+Dos cocinas donde deben spawnear ingredientes,
+estos deben poder cortarse/cocinarse/agarrarse/
+soltarse segun se indique con el comando. Un
+personaje por cocina, ambos manejables. Obstaculos
+en el mapa (agujeros y fuegos que no permiten realizar
+las misiones) y un mesa de entrega y otra que conecte
+ambas cocinas.
+Controles:
+WASD movimientos
+X cambiar personaje
+C cortar (sobre el cuchillo)
+H cocinar (a distancia 1 del horno)
+M usar matafuegos
+T usar mesa que conecta ambas cocinas
